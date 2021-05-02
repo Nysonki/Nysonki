@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nysonki
+- 👀 I’m interested in different programming languages, games and music.
+- 🌱 I’m currently learning Unity, C#
