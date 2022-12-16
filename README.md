@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Nysonki
+- 👋 Hi, I’m Jani Kyllästinen
 - 👀 I’m interested in different programming languages, games and music.
-- 🌱 I’m currently learning Unity, C#
+- 🌱 Currently mostly coding with Typescript, React, NextJS and Electron.
